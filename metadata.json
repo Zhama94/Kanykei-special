@@ -1,0 +1,6 @@
+{
+  "name": "TAI TRAVEL — Luxury Equestrian Expeditions in Kyrgyzstan",
+  "description": "Boutique horseback riding expeditions across the untouched landscapes and nomadic heritage of Kyrgyzstan, Central Asia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
